@@ -1,1 +1,1 @@
-# Default ignored files/shelf//workspace.xml# Editor-based HTTP Client requests/httpRequests/# Ignored default folder with query files/queries/# Datasource local storage ignored files/dataSources//dataSources.local.xml/.idea/
+# Игнорировать все файлы в папке data, но не саму папкуdata/*!data/.gitkeep# Игнорировать outputoutput/# JetBrains IDE.idea/*.iml.shelf/workspace.xml# Python__pycache__/*.pyc.venv/venv/env/# Model weights*.pt*.pth*.h5# Video files*.mp4*.avi*.mov*.mkv# Системные файлы.DS_StoreThumbs.db
